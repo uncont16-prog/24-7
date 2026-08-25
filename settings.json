@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Domnesti-targ.aternos.me",
-    "port": 37550,
+    "ip": "domnesticity.mcsh.io",
+    "port": 25565,
     "version": "1.21.11",
     "try-creative": false
   },
