@@ -1,7 +1,7 @@
 {
   "name": "CloudeHosting",
   "bot-account": {
-    "username": "CloudeHosting",
+    "username": "CloudHosting",
     "password": "",
     "type": "offline"
   },
